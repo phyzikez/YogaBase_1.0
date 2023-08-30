@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="style.qss">D:/[ CODE ]/[ [ [    PORTFOLIO    ] ] ]/-YOGABASE/YOGA3/style.qss</file>
+<file alias="en.ts">D:/[ CODE ]/[ [ [    PORTFOLIO    ] ] ]/-YOGABASE/YOGA3/en.ts</file>
+<file alias="ru.ts">D:/[ CODE ]/[ [ [    PORTFOLIO    ] ] ]/-YOGABASE/YOGA3/ru.ts</file>
+<file alias="password.txt">D:/[ CODE ]/[ [ [    PORTFOLIO    ] ] ]/-YOGABASE/YOGA3/password.txt</file>
+</qresource>
+</RCC>
