@@ -3,12 +3,19 @@ Qt application focused on improving yoga practice
 
 This "All-In-One" application represents base asanas used in yoga practice. The main goal is to help users who are interested in yoga to get more information about each asana, to comprehence benefits and restricts of each pose, to see its real execution represented by photo. At this moment there are 48 asanas that have different value of difficulty and usefullness.
 
+![4_TAB](https://github.com/phyzikez/YogaBase_1.0/assets/125161772/829b3c3e-36f1-43e1-91ff-36a3d20e819d)
+![3_TAB](https://github.com/phyzikez/YogaBase_1.0/assets/125161772/97bc2cc6-dd64-4a63-ada5-c9b76167d173)
+![2_TAB](https://github.com/phyzikez/YogaBase_1.0/assets/125161772/6ecaa42d-f7ba-4bd2-a921-88ac28ade07e)
+![1_TAB](https://github.com/phyzikez/YogaBase_1.0/assets/125161772/5904fc7b-59d4-4521-a4d1-8ff36b1816b2)
+
 App is made as a bound of 4 main tabs. Each tab represents its own feature.
 The first tab shows a table contains all asanas' information. 
 The second tab contains detail information about separate asana, chosen by user. 
 The another one is used for searching in asanas' database, represented by xml-file. 
 And the last one represents admin-page where authorized user can add a new asana into DB and update it in real-time mode.
 At the starting of application user can choise the language used in programm. After the splash screen will be shown.    
+
+
 Here is a catagorized list of app's features.
 
 1. COMMON FEATURES:
